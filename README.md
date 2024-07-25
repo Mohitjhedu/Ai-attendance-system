@@ -59,4 +59,12 @@ You can use this application by downloading and running it on your localhost. Fo
 
 1. **Download the Files**: Download `app.py` and `haarcascade_frontalface_default.xml` and save them in the same directory.
 2. **Set Up Environment**: Set up your Python environment with the necessary libraries.
+
+## Contributing
+
+I welcome contributions from the community. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+
+**Thank you for using TrackIt AI!**
+
    
